@@ -1,3 +1,3 @@
 # stocks-app-with-microservices
 
-A Stock Viewer app implemented with Flask and Streamlit. 
+An app for viewing stocks' details implemented using Flask and Streamlit. 
